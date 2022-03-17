@@ -1,7 +1,7 @@
 BOT_TOKEN = '5225943223:AAFzLs251jty7AUAEXxd0C7EM5_4RDvNCsY'
 PV_USERS = ['Zer09810']
 
-USERS = {Zer09810}
+USERS = {}
 def saveDB():
     import os
     name = 'database.udb'
